@@ -1,4 +1,4 @@
-## **README.md**
+## **README.md - Imersão Dev com Google Gemini**
 
 ### **Busca Rápida e Fácil de Plugins para Neovim**
 
